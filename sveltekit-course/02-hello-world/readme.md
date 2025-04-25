@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Creating Your SvelteKit Project
 
-1.  **Open the Terminal in VS Code:** Inside VS Code, open the integrated terminal by pressing `Ctrl + Backtick` (``Ctrl + ` ``) on Windows/Linux or `Cmd + Backtick` (``Cmd + ` ``) on macOS.
+1.  **Open the Terminal in VS Code:** Inside VS Code, open the integrated terminal by pressing `Ctrl + Backtick` (`` Ctrl + `  ``) on Windows/Linux or `Cmd + Backtick` (`` Cmd + `  ``) on macOS.
 
 2.  **Run the Create SvelteKit Command:** In the terminal, run the following command to create a new SvelteKit project:
 
@@ -35,17 +35,17 @@ Before you begin, ensure you have the following installed on your system:
 
 3.  **Interactive CLI Prompts:** The command will initiate an interactive command-line interface (CLI) with a series of questions:
 
-    * **Choose a template:** Select **Skeleton project**. This provides a bare-bones scaffolding for a new SvelteKit application.
+    - **Choose a template:** Select **Skeleton project**. This provides a bare-bones scaffolding for a new SvelteKit application.
 
-    * **Add types to the project?** Select **No**. This guide will proceed without TypeScript.
+    - **Add types to the project?** Select **No**. This guide will proceed without TypeScript.
 
-    * **Add ESLint for code linting?** Select **Yes**. ESLint helps identify and fix code style issues.
+    - **Add ESLint for code linting?** Select **Yes**. ESLint helps identify and fix code style issues.
 
-    * **Add Prettier for code formatting?** Select **Yes**. Prettier automatically formats your code for consistency.
+    - **Add Prettier for code formatting?** Select **Yes**. Prettier automatically formats your code for consistency.
 
-    * **Add Playwright for browser testing?** Select **No**. Browser testing will not be covered in this initial setup.
+    - **Add Playwright for browser testing?** Select **No**. Browser testing will not be covered in this initial setup.
 
-    * **Add Vitest for unit testing?** Select **No**. Unit testing will also not be covered in this initial setup.
+    - **Add Vitest for unit testing?** Select **No**. Unit testing will also not be covered in this initial setup.
 
 4.  **Project Creation:** Once you've answered all the questions, the CLI will create a new folder named `hello-world` (or whatever name you chose) containing the basic structure of your SvelteKit application.
 
@@ -108,7 +108,3 @@ The terminal will provide instructions on the next steps. Typically, these are:
 ## Congratulations!
 
 You have successfully created and run your first SvelteKit application!
-
-## Next Steps
-
-The next step, as mentioned in the video, is to understand the generated project's folder structure. Stay tuned for more!
